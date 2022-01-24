@@ -272,3 +272,7 @@ By using the `ChangeTracker` class, other useful EF Core extensions can be imple
 You can find the complete code in this GitHub repository.
 
 Happy Coding!
+
+German version
+
+https://www.traperto.com/change-tracking-mit-entity-framework-core/
